@@ -8,8 +8,8 @@ You can pick any relevant dataset. Choose a dataset that contains relevant featu
 
 Some options
 
-Retail[https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset]
-Customer personality[https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis]
+([Retail](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset))
+([Customer personality](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis))
 Make sure you perform cluster analysis and interpretation:
 
 Evaluate the quality of the clusters formed using appropriate metrics like the within-cluster sum of squares (WCSS) or silhouette score.
