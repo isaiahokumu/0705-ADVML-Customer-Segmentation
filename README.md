@@ -6,10 +6,12 @@ In this project, you will use a clustering algorithm to perform customer segment
 ### Dataset
 You can pick any relevant dataset. Choose a dataset that contains relevant features such as customer demographics (age, gender, location), transaction history (purchase amounts, frequency), and any other information that you think might be useful for customer segmentation. Ensure that the dataset is preprocessed and cleaned before applying the algorithm.
 
-Some options
+Some options:
 
-([Retail](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset))
-([Customer personality](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis))
+[Retail](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset)
+
+[Customer personality](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+
 Make sure you perform cluster analysis and interpretation:
 
 Evaluate the quality of the clusters formed using appropriate metrics like the within-cluster sum of squares (WCSS) or silhouette score.
